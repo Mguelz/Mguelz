@@ -4,7 +4,7 @@
 
 ![Miguel Arcanjo GitHub stats](https://github-readme-stats.vercel.app/api?username=Mguelz&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Mguelz=anuraghazra&layout=compact)](https://github.com/Mguelz/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Mguelz=anuraghazra&layout=compact)](https://github.com/Mguelz/github-readme-stats)-->
 
 ## Tecnologias que eu uso no meu dia a dia
 
