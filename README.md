@@ -22,7 +22,8 @@ Apaixonado por tecnologia, estou aprendendo java no momento, este é meu primeir
 - [devise from the cars](https://greenfoot.org/scenarios/29644)<br/>
 - [Dodge the cherries](https://greenfoot.org/scenarios/29769)<br/>
 - [Rocket in Space](https://greenfoot.org/scenarios/29878)
-
+### Projetos Pessoais
+- [Projeto Churras](https://github.com/Mguelz/ProjetoChurras)<br/>
 
 
 
