@@ -24,6 +24,8 @@ Apaixonado por tecnologia, estou aprendendo java no momento, este é meu primeir
 - [Rocket in Space](https://greenfoot.org/scenarios/29878)
 ### Projetos Pessoais
 - [Projeto Churras](https://github.com/Mguelz/ProjetoChurras)<br/>
+- [Vocabulário](https://github.com/Mguelz/Vocabulario)<br/>
+- [Menu Opções](https://github.com/Mguelz/Menu-opcoes)<br/>
 
 
 
