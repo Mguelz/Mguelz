@@ -15,7 +15,7 @@
     <img align = "center" alt = "Eclipse" src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 <div><br/>
 
-Apaixonado por tecnologia, estou aprendendo java no momento, este é meu primeiro contato com programalção
+Apaixonado por tecnologia, estou aprendendo java no momento, este é meu primeiro contato com programação
 
 ## Projetos
 ### Projetos Pessoais
